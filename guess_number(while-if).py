@@ -20,3 +20,21 @@ while n != answer:
     else:
         print("That's right!")
         break
+    
+# import random
+
+# answer = random.randint(1, 100)
+
+# while True:
+#     n = int(input("Please enter number 1~100 : "))
+#     if n > answer:
+#         print("Too large!")
+#     elif n < answer:
+#         print("Too small!")
+#     else:
+#         print("That's right!")
+#         break    
+    
+    
+    
+    
